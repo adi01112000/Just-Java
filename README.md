@@ -1,7 +1,6 @@
 Just Java Sample App
 ===================================
 
-Begineer friendly to get started with Android Studio.
 This app displays an order form for coffee. Used in the Udacity Android for Beginners course.
 
 Pre-requisites
